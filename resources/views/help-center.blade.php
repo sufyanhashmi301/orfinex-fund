@@ -44,25 +44,25 @@
                             <li class="nav-item" role="presentation">
                                 <button class="nav-link active" id="getting-tab" data-bs-toggle="tab" data-bs-target="#getting-tab-pane" type="button" role="tab" aria-controls="getting-tab-pane" aria-selected="true">
                                     <img src="{{ asset ('assets/img/icon/faq_icon01.svg') }}" alt="">
-                                    Getting Started
+                                    New to Orfinex Fund
                                 </button>
                             </li>
                             <li class="nav-item" role="presentation">
                                 <button class="nav-link" id="pricing-tab" data-bs-toggle="tab" data-bs-target="#pricing-tab-pane" type="button" role="tab" aria-controls="pricing-tab-pane" aria-selected="false">
                                     <img src="{{ asset('assets/img/icon/faq_icon02.svg') }}" alt="">
-                                    pricing & Plans
+                                    Challenge & Plans
                                 </button>
                             </li>
                             <li class="nav-item" role="presentation">
                                 <button class="nav-link" id="usage-tab" data-bs-toggle="tab" data-bs-target="#usage-tab-pane" type="button" role="tab" aria-controls="usage-tab-pane" aria-selected="false">
                                     <img src="{{ asset('assets/img/icon/faq_icon03.svg') }}" alt="">
-                                    Usage Guides
+                                    Terms & Rules
                                 </button>
                             </li>
                             <li class="nav-item" role="presentation">
                                 <button class="nav-link" id="sales-tab" data-bs-toggle="tab" data-bs-target="#sales-tab-pane" type="button" role="tab" aria-controls="sales-tab-pane" aria-selected="false">
                                     <img src="{{ asset('assets/img/icon/faq_icon04.svg') }}" alt="">
-                                    Sales Question
+                                    Orders & Billing
                                 </button>
                             </li>
                         </ul>
@@ -493,7 +493,7 @@
                                         <img src="{{ asset('assets/img/icon/help_icon01.svg') }}" alt="">
                                     </div>
                                     <div class="content">
-                                        <a href="tel:0123456789">+(1) 123 656 7865</a>
+                                        <a href="tel:+1(833)530-0055">+1 (833) 530-0055</a>
                                         <p>We are always happy to help.</p>
                                     </div>
                                 </div>
@@ -504,7 +504,7 @@
                                         <img src="{{ asset('assets/img/icon/help_icon02.svg') }}" alt="">
                                     </div>
                                     <div class="content">
-                                        <a href="mailto:dex.aiinfotive@.com">dex.ai infotive@.com</a>
+                                        <a href="mailto:support@orfinexfund.com">support@orfinexfund.com</a>
                                         <p>The best way to get answer faster.</p>
                                     </div>
                                 </div>
