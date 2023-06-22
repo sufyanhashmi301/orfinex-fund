@@ -2470,7 +2470,7 @@ label {
 	top: 2px;
 	bottom: 2px;
 	border-radius: 50%;
-	background: #331a5d;
+	/* background: #331a5d; */
 	z-index: -1;
 }
 .writing-content .title {
@@ -3233,7 +3233,7 @@ label {
     -ms-transform: translateY(0px);
     transform: translateY(0px);
     cursor: pointer;
-    background: var(--tg-blue);
+    /* background: var(--tg-blue); */
 	border: 2px solid rgba(255, 255, 255, 0.07);
 }
 .pricing-tab .pricing-tab-switcher:before {
@@ -3790,7 +3790,7 @@ label {
 	top: 2px;
 	bottom: 2px;
 	border-radius: 50%;
-	background: #331a5d;
+	/* background: #331a5d; */
 	z-index: -1;
 }
 .tools-content .title {
@@ -3999,7 +3999,7 @@ label {
 	align-items: center;
 	gap: 5px;
 	font-size: 18px;
-	color: #68538F;
+	color: #ff0000;
 	margin-bottom: 22px;
 }
 .testimonial-content p {
@@ -4013,6 +4013,7 @@ label {
 .testimonial-bottom span {
 	display: block;
 	line-height: 1;
+	color: #ff0000;
 }
 .testimonial-thumb {
 	position: absolute;

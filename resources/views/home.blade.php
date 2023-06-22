@@ -52,8 +52,8 @@
                 <div class="col-lg-12">
                     <div class="video-wrap">
                         <video class="live-video" loop autoplay muted>
-                            <source src="{{ asset('assets/videos/video_01.mp4') }}" type="video/mp4">
-                            <source src="{{ asset('assets/videos/video_01.html') }}" type="video/ogg">
+                            <source src="{{ asset('assets/videos/orfinex.mp4') }}" type="video/mp4">
+                            {{-- <source src="{{ asset('assets/videos/video_01.html') }}" type="video/ogg"> --}}
                         </video>
                     </div>
                 </div>
