@@ -68,7 +68,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title text-center mb-80">
-                        <h2 class="title title-animation">Start writing <span>10x faster</span> with AI</h2>
+                        <h2 class="title title-animation">Unlock the <span>Secret</span> of Success</h2>
                     </div>
                 </div>
             </div>
@@ -87,7 +87,7 @@
                             <i class="far fa-brain"></i>
                         </div>
                         <div class="writing-content">
-                            <h4 class="title">The GPT-3.5 language</h4>
+                            <h4 class="title">Market Based Execution</h4>
                             <p>Unlike anything you've experienced - unique and unimaginable capabilities.</p>
                             <a href="work.html" class="link-btn">Try Gpt-3.5 language<i class="far fa-arrow-right"></i></a>
                         </div>
@@ -107,7 +107,7 @@
                             <i class="far fa-chart-line"></i>
                         </div>
                         <div class="writing-content">
-                            <h4 class="title">Grow with the use of AI</h4>
+                            <h4 class="title">Easy Scaling to 700K USD</h4>
                             <p>Unlike anything you've experienced - unique and unimaginable capabilities.</p>
                             <a href="work.html" class="link-btn">Try use of AI<i class="far fa-arrow-right"></i></a>
                         </div>
@@ -127,7 +127,7 @@
                             <i class="fal fa-lightbulb-on"></i>
                         </div>
                         <div class="writing-content">
-                            <h4 class="title">Optimized for conversions</h4>
+                            <h4 class="title">Low Spread & Commision</h4>
                             <p>Unlike anything you've experienced - unique and unimaginable capabilities.</p>
                             <a href="work.html" class="link-btn">Try conversions<i class="far fa-arrow-right"></i></a>
                         </div>
@@ -147,7 +147,7 @@
                             <i class="fal fa-globe"></i>
                         </div>
                         <div class="writing-content">
-                            <h4 class="title">Supports 26 languages</h4>
+                            <h4 class="title">Trusted & Regulated Broker</h4>
                             <p>Unlike anything you've experienced - unique and unimaginable capabilities.</p>
                             <a href="work.html" class="link-btn">Try supports languages<i class="far fa-arrow-right"></i></a>
                         </div>
@@ -167,7 +167,7 @@
                             <i class="fal fa-user-friends"></i>
                         </div>
                         <div class="writing-content">
-                            <h4 class="title">Streamline collaboration</h4>
+                            <h4 class="title">Instant Account Access</h4>
                             <p>Unlike anything you've experienced - unique and unimaginable capabilities.</p>
                             <a href="work.html" class="link-btn">Try streamline<i class="far fa-arrow-right"></i></a>
                         </div>
@@ -187,7 +187,7 @@
                             <i class="far fa-cog"></i>
                         </div>
                         <div class="writing-content">
-                            <h4 class="title">Powerful settings</h4>
+                            <h4 class="title">Tailored for all Styles</h4>
                             <p>Unlike anything you've experienced - unique and unimaginable capabilities.</p>
                             <a href="work.html" class="link-btn">Try powerful settings<i class="far fa-arrow-right"></i></a>
                         </div>
