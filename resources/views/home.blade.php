@@ -542,6 +542,31 @@
 @push('scripts')
     <script>
 
+        $('.pricing-tab-switcher').on('click', function () {
+            var activeTab = $('#plans-tab .nav-link.active');
+            var tab1 = $('#website-tab-pane');
+            var tab2 = $('#social-tab-pane');
+
+            if (tab1.hasClass('show active')) {
+                tab1.removeClass('show active');
+                tab2.addClass('show active');
+            } else {
+                tab2.removeClass('show active');
+                tab1.addClass('show active');
+            }
+        });
+
+        $('#plans-tab .nav-link').on('click', function () {
+            var target = $($(this).attr('href'));
+
+            $('#plans-tab .nav-link').removeClass('active');
+            $(this).addClass('active');
+
+            $('.tab-content .tab-pane').removeClass('show active');
+            target.addClass('show active');
+        });
+
+
         $('.payment-plans-row__container').click(function() {
             $(this).children('.plan-details').slideToggle();
         });
