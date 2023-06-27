@@ -17,6 +17,7 @@ Route::view('/', 'home')->name('home');
 Route::view('/how-it-works', 'how-it-works')->name('how-it-works');
 Route::view('/help-center', 'help-center')->name('help-center');
 Route::view('/faq', 'faq')->name('faq');
+Route::view('/success-coach', 'success-coach')->name('success-coach');
 
 Route::prefix('trading')->group(function () {
     Route::view('/blog', 'trading.blog')->name('trading.blog');

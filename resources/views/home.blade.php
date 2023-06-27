@@ -211,141 +211,22 @@
             <div class="pricing-item-wrap">
                 <div class="pricing-billing-duration text-center">
                     <div class="pricing-tab">
-                        <span class="tab-btn monthly_tab_title">Monthly</span>
-                        <span class="pricing-tab-switcher"></span>
-                        <span class="tab-btn annual_tab_title">Yearly</span>
+                        <ul class="nav nav-tabs border-0" id="plans-tab" role="tablist">
+                            <li class="nav-item" role="presentation">
+                                <a class="nav-link border-0 bg-transparent p-0 active" id="website-tab" data-bs-toggle="tab" href="#website-tab-pane" role="tab" aria-controls="website-tab-pane" aria-selected="true">
+                                    <span class="tab-btn">Challange Funding</span>
+                                </a>
+                            </li>
+                            <span class="pricing-tab-switcher"></span>
+                            <li class="nav-item" role="presentation">
+                                <a class="nav-link border-0 bg-transparent p-0" id="social-tab" data-bs-toggle="tab" href="#social-tab-pane" role="tab" aria-controls="social-tab-pane" aria-selected="false">
+                                    <span class="tab-btn">Direct Funding</span>
+                                </a>
+                            </li>
+                        </ul>
                     </div>
                 </div>
-                <div class="row justify-content-center">
-                    <div class="col-xl-4 col-lg-6 col-md-9 col-sm-10">
-                        <div class="pricing-item wow fadeInLeft" data-wow-delay=".2s">
-                            <div class="pricing-shape">
-                                <svg viewBox="0 0 410 616" fill="none" x="0px" y="0px" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path fill-rule="evenodd" clip-rule="evenodd"  d="M85.6497 0.634114C102.343 1.89097 115.705 2.89697 134 22.4989C134.632 23.176 135.238 23.8305 135.823 24.4624C145.21 34.5995 149.203 38.9119 168.5 37.4993C179.699 36.6795 228.167 37.1659 251 37.4993H251.001C262.001 37.4993 270.501 37.4993 289 16C301.111 1.92454 315.232 0.174842 333.448 0H380C396.569 0 410 13.4315 410 30V586C410 602.569 396.569 616 380 616H30C13.4315 616 0 602.569 0 586V30C0 13.4315 13.4315 0 30 0H78.0075C80.6454 0.257338 83.1839 0.448462 85.6497 0.634114Z" fill="currentcolor" />
-                                </svg>
-                            </div>
-                            <div class="pricing-top">
-                                <div class="left-side">
-                                    <div class="icon">
-                                        <img src="{{ asset('assets/img/icon/pricing_icon.svg') }}" alt="">
-                                    </div>
-                                    <div class="content">
-                                        <h4 class="title">Basic</h4>
-                                        <span>03 Services</span>
-                                    </div>
-                                </div>
-                                <div class="pricing-price">
-                                    <h2 class="title monthly_price">Free</h2>
-                                    <h2 class="title annual_price">Free</h2>
-                                </div>
-                            </div>
-                            <div class="pricing-list">
-                                <ul class="list-wrap">
-                                    <li>15 000 words/month</li>
-                                    <li>Write in 10 languages</li>
-                                    <li>Image generation (40/month)</li>
-                                    <li class="delete">25+ languages</li>
-                                    <li class="delete">Unlimited projects</li>
-                                    <li class="delete">Unlimited Marvel Chat</li>
-                                    <li class="delete">New experimental features</li>
-                                </ul>
-                            </div>
-                            <div class="pricing-btn">
-                                <a href="login.html" class="btn btn-two">choose plan</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-6 col-md-9 col-sm-10">
-                        <div class="pricing-item active wow fadeInUp" data-wow-delay=".5s">
-                            <span class="popular">Most popular</span>
-                            <div class="pricing-shape">
-                                <svg viewBox="0 0 410 616" fill="none"  x="0px" y="0px" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path fill-rule="evenodd" clip-rule="evenodd"
-                                        d="M85.6497 0.634114C102.343 1.89097 115.705 2.89697 134 22.4989C134.632 23.176 135.238 23.8305 135.823 24.4624C145.21 34.5995 149.203 38.9119 168.5 37.4993C179.699 36.6795 228.167 37.1659 251 37.4993H251.001C262.001 37.4993 270.501 37.4993 289 16C301.111 1.92454 315.232 0.174842 333.448 0H380C396.569 0 410 13.4315 410 30V586C410 602.569 396.569 616 380 616H30C13.4315 616 0 602.569 0 586V30C0 13.4315 13.4315 0 30 0H78.0075C80.6454 0.257338 83.1839 0.448462 85.6497 0.634114Z"
-                                        fill="url(#pricing)" />
-                                    <defs>
-                                        <linearGradient id="pricing" x1="-35.4999" y1="-46.5001" x2="393.384" y2="749.254"
-                                            gradientUnits="userSpaceOnUse">
-                                            <stop offset="0.0246007" stop-color="#C8BDFF" />
-                                            <stop offset="0.0246007" stop-color="#BAA6FF" />
-                                            <stop offset="0.214137" stop-color="#6721FF" />
-                                            <stop offset="0.486687" stop-color="#6721FF" />
-                                            <stop offset="1" stop-color="#00CBFF" />
-                                        </linearGradient>
-                                    </defs>
-                                </svg>
-                            </div>
-                            <div class="pricing-top">
-                                <div class="left-side">
-                                    <div class="icon">
-                                        <img src="{{ asset('assets/img/icon/pricing_icon.svg') }}" alt="">
-                                    </div>
-                                    <div class="content">
-                                        <h4 class="title">Standard</h4>
-                                        <span>05 Services</span>
-                                    </div>
-                                </div>
-                                <div class="pricing-price">
-                                    <h2 class="title monthly_price">$39</h2>
-                                    <h2 class="title annual_price">$299</h2>
-                                </div>
-                            </div>
-                            <div class="pricing-list">
-                                <ul class="list-wrap">
-                                    <li>15 000 words/month</li>
-                                    <li>Write in 10 languages</li>
-                                    <li>Image generation (40/month)</li>
-                                    <li>25+ languages</li>
-                                    <li>Unlimited projects</li>
-                                    <li class="delete">Unlimited Marvel Chat</li>
-                                    <li class="delete">New experimental features</li>
-                                </ul>
-                            </div>
-                            <div class="pricing-btn">
-                                <a href="login.html" class="btn btn-two">choose plan</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-6 col-md-9 col-sm-10">
-                        <div class="pricing-item wow fadeInRight" data-wow-delay=".2s">
-                            <div class="pricing-shape">
-                                <svg viewBox="0 0 410 616" fill="none" x="0px" y="0px" preserveAspectRatio="none"
-                                    xmlns="http://www.w3.org/2000/svg">
-                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M85.6497 0.634114C102.343 1.89097 115.705 2.89697 134 22.4989C134.632 23.176 135.238 23.8305 135.823 24.4624C145.21 34.5995 149.203 38.9119 168.5 37.4993C179.699 36.6795 228.167 37.1659 251 37.4993H251.001C262.001 37.4993 270.501 37.4993 289 16C301.111 1.92454 315.232 0.174842 333.448 0H380C396.569 0 410 13.4315 410 30V586C410 602.569 396.569 616 380 616H30C13.4315 616 0 602.569 0 586V30C0 13.4315 13.4315 0 30 0H78.0075C80.6454 0.257338 83.1839 0.448462 85.6497 0.634114Z" fill="currentcolor" />
-                                </svg>
-                            </div>
-                            <div class="pricing-top">
-                                <div class="left-side">
-                                    <div class="icon">
-                                        <img src="{{ asset('assets/img/icon/pricing_icon.svg') }}" alt="">
-                                    </div>
-                                    <div class="content">
-                                        <h4 class="title">Enterprise</h4>
-                                        <span>07 Services</span>
-                                    </div>
-                                </div>
-                                <div class="pricing-price">
-                                    <h2 class="title monthly_price">$99</h2>
-                                    <h2 class="title annual_price">$699</h2>
-                                </div>
-                            </div>
-                            <div class="pricing-list">
-                                <ul class="list-wrap">
-                                    <li>15 000 words/month</li>
-                                    <li>Write in 10 languages</li>
-                                    <li>Image generation (40/month)</li>
-                                    <li>25+ languages</li>
-                                    <li>Unlimited projects</li>
-                                    <li>Unlimited Marvel Chat</li>
-                                    <li>New experimental features</li>
-                                </ul>
-                            </div>
-                            <div class="pricing-btn">
-                                <a href="login.html" class="btn btn-two">choose plan</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                @include('pricing.pricing-table')
             </div>
         </div>
     </section>
@@ -480,6 +361,57 @@
     </section>
     <!-- tools-area-end -->
 
+    <section class="blog-details-area pb-150">
+        <div class="container">
+            <div class="blog-avatar-wrap w-100">
+                <div class="row g-4">
+                    <div class="col-lg-8">
+                        <div class="section-title mb-25">
+                            <h2 class="title title-animation">
+                                Check Our 
+                                <span>Competitive Spreads</span>
+                            </h2>
+                        </div>
+                        <p>Login to MT5 with these credentials to check out our raw spreads across different instruments. Guaranteed best prop trading conditions with raw spreads and minimal slippage on execution.</p>
+                        <div class="d-inline-flex rounded-pill border py-3 px-4 mt-4">
+                            <h6 class="mb-0">Trading Platform 5</h6>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="card check-spread__card overflow-hidden border-0">
+                            <div class="card-head text-center p-3">
+                                <h5 class="mb-0">Check Spread - MT5</h5>
+                            </div>
+                            <div class="card-body p-4">
+                                <label class="form-label text-dark">Login ID</label>
+                                <div class="form-control-wrap mb-3">
+                                    <input type="text" class="form-control form-control-sm" value="12345" readonly>
+                                    <a href="javascript:;" class="form-icon form-icon-right copy-button">
+                                        <i class="fas fa-copy"></i>
+                                    </a>
+                                </div>
+                                <label class="form-label text-dark">Investor Password</label>
+                                <div class="form-control-wrap mb-3">
+                                    <input type="text" class="form-control form-control-sm" value="FN2022" readonly>
+                                    <a href="javascript:;" class="form-icon form-icon-right copy-button">
+                                        <i class="fas fa-copy"></i>
+                                    </a>
+                                </div>
+                                <label class="form-label text-dark">Server Name</label>
+                                <div class="form-control-wrap mb-3">
+                                    <input type="text" class="form-control form-control-sm" value="Growthnext-Server" readonly>
+                                    <a href="javascript:;" class="form-icon form-icon-right copy-button">
+                                        <i class="fas fa-copy"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- testimonial-area -->
     <section class="testimonial-area">
         <div class="container">
@@ -606,3 +538,147 @@
     </section>
     <!-- testimonial-area-end -->
 @endsection
+
+@push('scripts')
+    <script>
+
+        $('.payment-plans-row__container').click(function() {
+            $(this).children('.plan-details').slideToggle();
+        });
+
+        $('.planSlide').hide();
+        $('.planSlide.current').show();
+        $('#next').click(function () {
+            $('.planSlide.current').removeClass('current').hide().next().show().addClass('current');
+
+            if ($('.planSlide.current').hasClass('last')) {
+                $('#next').css('display', 'none');
+            }
+            $('#prev').css('display', 'flex');
+        });
+
+        $('#prev').click(function () {
+            $('.planSlide.current').removeClass('current').hide().prev().show().addClass('current');
+
+            if ($('.planSlide.current').hasClass('first')) {
+                $('#prev').css('display', 'none');
+            }
+            $('#next').css('display', 'flex');
+        });
+
+        $(document).ready(function () {
+
+            updateRefundableFees('swap');
+            $('.account-btn').on('click', function () {
+                var accountType = $(this).data('account-type');
+                updateRefundableFees(accountType);
+                $(this).addClass('active').siblings().removeClass('active');
+            });
+
+            function updateRefundableFees(accountType) {
+                $('.refundable-fee').each(function () {
+                    var fee = $(this).data('fee');
+                    var displayText = '$' + fee;
+
+                    if ($(this).data('account-type') === accountType) {
+                        $(this).text(displayText);
+                    } else {
+                        $(this).empty();
+                    }
+                });
+            }
+
+            $('#step-challange__1').on('click', function() {
+                $('#phaseButtons').show();
+            });
+
+            $('#step-challange__2').on('click', function() {
+                $('#phaseButtons').hide();
+            });
+
+            // Initialize the challange data based on the default selected challange
+            updateChallangeData(2);
+
+            $('.challange-btn').on('click', function () {
+                var challange = $(this).data('challange');
+                updateChallangeData(challange);
+
+                $(this).addClass('active').siblings().removeClass('active');
+            });
+
+            function updateChallangeData(challange) {
+                $('.challange-data').each(function () {
+                    var dataChallange = $(this).data('challange');
+
+                    if (dataChallange === challange) {
+                        $(this).show();
+                    } else {
+                        $(this).hide();
+                    }
+                });
+            }
+
+            // Initialize the phase data based on the default selected phase
+            updatePhaseData(1);
+
+            $('.phase-btn').on('click', function () {
+                var phase = $(this).data('phase');
+                updatePhaseData(phase);
+                
+                $(this).addClass('active').siblings().removeClass('active');
+            });
+
+            function updatePhaseData(phase) {
+                $('.phase-data').each(function () {
+                    var dataPhase = $(this).data('phase');
+
+                    if (dataPhase === phase) {
+                        $(this).show();
+                    } else {
+                        $(this).hide();
+                    }
+                });
+            }
+
+            // Initialize the leverage data based on the default selected leverage
+            updateLeverageData('1:5');
+
+            $('.leverage-btn').on('click', function () {
+                var leverage = $(this).data('leverage');
+                updateLeverageData(leverage);
+
+                $(this).addClass('active').siblings().removeClass('active');
+            });
+
+            function updateLeverageData(leverage) {
+                $('.leverage-data').each(function () {
+                    var dataLeverage = $(this).data('leverage');
+
+                    if (dataLeverage === leverage) {
+                        $(this).show();
+                    } else {
+                        $(this).hide();
+                    }
+                });
+            }
+
+            // Get all copy buttons
+            const copyButtons = document.querySelectorAll('.copy-button');
+            copyButtons.forEach(button => {
+                button.addEventListener('click', () => {
+                    const input = button.previousElementSibling;
+                    input.select();
+                    input.setSelectionRange(0, 99999);
+                    document.execCommand('copy');
+                    input.blur();
+                    button.innerHTML = '<i class="far fa-check-circle text-success"></i>';
+                    setTimeout(() => {
+                    button.innerHTML = '<i class="fas fa-copy"></i>';
+                    }, 2000);
+                });
+            });
+
+        });
+
+    </script>
+@endpush

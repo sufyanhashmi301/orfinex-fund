@@ -106,7 +106,8 @@ body {
 	font-weight: var(--tg-body-font-weight);
 	font-size: var(--tg-body-font-size);
 	line-height: var(--tg-body-line-height);
-	color: var(--tg-body-font-color);
+	/* color: var(--tg-body-font-color); */
+	color: var(--tg-white);
 	font-style: normal;
 }
 main.main-content {
@@ -6109,4 +6110,176 @@ label {
     transform: scaleY(1.0);
     -webkit-transform: scaleY(1.0);
   };
+}
+
+.payment-plans {
+	display: flex;
+	flex-direction: column;
+	overflow: visible;
+	position: relative;
+	width: 100%;
+}
+
+.payment-plans .payment-plans-row {
+	align-items: center;
+	display: flex;
+	flex-direction: row;
+	height: 65px;
+	width: 100%;
+}
+
+.payment-plans .payment-plans-body {
+	background-color: rgba(255, 255, 255, 0.1);
+	border-radius: 10px;
+}
+
+.payment-plans .payment-plans-head .payment-plans-row {
+	align-items: end;
+	height: auto;
+}
+
+.payment-plans .payment-plans-body .payment-plans-row {
+	cursor: pointer;
+}
+
+.payment-plans .payment-plans-cell {
+	border-bottom: 1px solid rgba(219, 223, 234, 0.4);
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding: 0 20px;
+	text-align: center;
+	flex: 0 0 auto;
+	width: 50%;
+	font-size: 14px;
+	font-weight: 500;
+	height: 100%;
+}
+
+.payment-plans .payment-plans-body .payment-plans-row:hover {
+	box-shadow: 0 2px 15px -4px rgba(255, 0, 0, 0.4);
+}
+
+@media (min-width: 768px) {
+
+	.payment-plans .payment-plans-cell {
+		width: 20%;
+		flex: auto;
+	}
+
+	.payment-plans .payment-plans-head .payment-plans-row {
+		gap: 15px;
+	}
+
+}
+
+.payment-plans .payment-plans-body .payment-plans-cell:first-child {
+	align-items: flex-start;
+	color: #ff0000;
+	font-weight: 600;
+	position: relative;
+	text-align: left;
+}
+
+.payment-plans .plan-details {
+	display: none;
+	background-color: rgba(255, 255, 255, 0.1);
+	border-bottom: 1px solid rgba(219, 223, 234, 0.4);;
+	font-size: 14px;
+	font-weight: 500;
+	letter-spacing: .05em;
+	padding: 30px;
+	width: 100%;
+}
+
+.payment-plans .payment-plans-head .payment-plans-cell,
+.payment-plans .payment-plans-body .payment-plans-row__container:last-child .payment-plans-cell,
+.payment-plans .payment-plans-body .payment-plans-row__container:last-child .plan-details {
+	border: none;
+}
+
+.payment-plans .payment-plans-head .payment-plans-cell {
+	position: relative;
+	background-color: rgba(255, 255, 255, 0.1);
+	border-radius: 15px;
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
+	padding: 18px;
+	padding-top: 10px;
+}
+
+.payment-plans .payment-plans-head .payment-plans-cell:before {
+	content: '';
+	width: 100%;
+	height: 30px;
+	top: -30px;
+	left: 0;
+	position: absolute;
+	background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 410 616' fill='none' x='0px' y='0px' preserveAspectRatio='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M85.6497 0.634114C102.343 1.89097 115.705 2.89697 134 22.4989C134.632 23.176 135.238 23.8305 135.823 24.4624C145.21 34.5995 149.203 38.9119 168.5 37.4993C179.699 36.6795 228.167 37.1659 251 37.4993H251.001C262.001 37.4993 270.501 37.4993 289 16C301.111 1.92454 315.232 0.174842 333.448 0H380C396.569 0 410 13.4315 410 30V586C410 602.569 396.569 616 380 616H30C13.4315 616 0 602.569 0 586V30C0 13.4315 13.4315 0 30 0H78.0075C80.6454 0.257338 83.1839 0.448462 85.6497 0.634114Z' fill='%23ffffff1a'%3E%3C/path%3E%3C/svg%3E");
+	fill: rgba(255, 255, 255, 0.1);
+	background-repeat: no-repeat;
+	background-size: 100% 1000%;
+}
+
+.payment-plans .payment-plans-head .payment-plans-cell:first-child {
+	background-color: transparent;
+	border-radius: 0;
+	padding: 0;
+}
+
+.payment-plans .payment-plans-head .payment-plans-cell:first-child:before {
+	display: none;
+}
+
+.planSlideBtns .btn {
+	display: flex;
+	position: absolute;
+	padding: 0;
+	width: 42px;
+	height: 42px;
+	justify-content: center;
+	align-items: center;
+	top: 50%;
+}
+
+.planSlideBtns #prev {
+	display: none;
+	left: -1%;
+}
+
+.planSlideBtns #next {
+	right: -1%;
+}
+
+.challange-btn.active::before, .phase-btn.active::before, .leverage-btn.active::before {
+	opacity: 0;
+}
+
+.check-spread__card {
+	border-radius: 12px;
+}
+
+.check-spread__card .card-head {
+	background-image: var(--tg-gradient-color);
+}
+
+.form-control-wrap,
+.form-control-group {
+	position: relative;
+}
+
+.form-icon {
+	position: absolute;
+	display: inline-flex;
+	justify-content: center;
+	align-items: center;
+	top: 0;
+	width: calc(1rem + 24px);
+	/* height: calc(2.125rem + 2px); */
+	height: calc(1.5em + 6px);
+}
+
+.form-icon-right {
+	left: auto;
+	right: -1px;
 }
