@@ -548,22 +548,22 @@
 
         $('.planSlide').hide();
         $('.planSlide.current').show();
-        $('#next').click(function () {
+        $('.next').click(function () {
             $('.planSlide.current').removeClass('current').hide().next().show().addClass('current');
 
             if ($('.planSlide.current').hasClass('last')) {
-                $('#next').css('display', 'none');
+                $('.next').css('display', 'none');
             }
-            $('#prev').css('display', 'flex');
+            $('.prev').css('display', 'flex');
         });
 
-        $('#prev').click(function () {
+        $('.prev').click(function () {
             $('.planSlide.current').removeClass('current').hide().prev().show().addClass('current');
 
             if ($('.planSlide.current').hasClass('first')) {
-                $('#prev').css('display', 'none');
+                $('.prev').css('display', 'none');
             }
-            $('#next').css('display', 'flex');
+            $('.next').css('display', 'flex');
         });
 
         $(document).ready(function () {

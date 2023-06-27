@@ -2101,10 +2101,10 @@
                 </div>
             </div>
             <div class="planSlideBtns">
-                <a href="javascript:;" id="prev" class="btn btn-two btn-sm">
+                <a href="javascript:;" class="btn btn-two btn-sm prev">
                     <i class="fas fa-angle-left"></i>
                 </a>
-                <a href="javascript:;" id="next" class="btn btn-two btn-sm">
+                <a href="javascript:;" class="btn btn-two btn-sm next">
                     <i class="fas fa-angle-right"></i>
                 </a>
             </div>
@@ -3954,10 +3954,10 @@
                 </div>
             </div>
             <div class="planSlideBtns">
-                <a href="javascript:;" id="prev" class="btn btn-two btn-sm">
+                <a href="javascript:;" class="btn btn-two btn-sm prev">
                     <i class="fas fa-angle-left"></i>
                 </a>
-                <a href="javascript:;" id="next" class="btn btn-two btn-sm">
+                <a href="javascript:;" class="btn btn-two btn-sm next">
                     <i class="fas fa-angle-right"></i>
                 </a>
             </div>

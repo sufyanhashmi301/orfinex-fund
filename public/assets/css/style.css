@@ -6242,12 +6242,12 @@ label {
 	top: 50%;
 }
 
-.planSlideBtns #prev {
+.planSlideBtns .prev {
 	display: none;
 	left: -1%;
 }
 
-.planSlideBtns #next {
+.planSlideBtns .next {
 	right: -1%;
 }
 
