@@ -3,16 +3,16 @@
         <div class="contact-form p-4 mx-0 mb-5">
             <div class="row">
                 <div class="col-md-6 text-center">
-                    <button class="gradient-btn gradient-btn-two btn-two challange-btn me-2 mb-2 mb-sm-0 active" data-challange="2" id="step-challange__1">
+                    <button class="gradient-btn gradient-btn-two btn-two challange-btn me-2 mb-2 mb-md-0 active" data-challange="2" id="step-challange__1">
                         2 Step Challange
                     </button>
-                    <button class="gradient-btn gradient-btn-two btn-two challange-btn me-2 mb-2 mb-sm-0" data-challange="1" id="step-challange__2">
+                    <button class="gradient-btn gradient-btn-two btn-two challange-btn me-2 mb-2 mb-md-0" data-challange="1" id="step-challange__2">
                         1 Step Challange
                     </button>
                 </div>
                 <div class="col-md-6 text-center" id="phaseButtons">
-                    <button class="gradient-btn gradient-btn-two btn-two phase-btn me-2 mb-2 mb-sm-0 active" data-phase="1">Phase 1</button>
-                    <button class="gradient-btn gradient-btn-two btn-two phase-btn me-2 mb-2 mb-sm-0" data-phase="2">Phase 2</button>
+                    <button class="gradient-btn gradient-btn-two btn-two phase-btn me-2 mb-2 mb-md-0 active" data-phase="1">Phase 1</button>
+                    <button class="gradient-btn gradient-btn-two btn-two phase-btn me-2 mb-2 mb-md-0" data-phase="2">Phase 2</button>
                 </div>
             </div>
         </div>
@@ -2114,13 +2114,13 @@
         <div class="contact-form p-4 mx-0 mb-5">
             <div class="row">
                 <div class="col-md-6 text-center">
-                    <button class="gradient-btn gradient-btn-two btn-two leverage-btn me-2 mb-2 mb-sm-0 active" data-leverage="1:5">
+                    <button class="gradient-btn gradient-btn-two btn-two leverage-btn me-2 mb-2 mb-md-0 active" data-leverage="1:5">
                         Leverage 1:5
                     </button>
-                    <button class="gradient-btn gradient-btn-two btn-two leverage-btn me-2 mb-2 mb-sm-0" data-leverage="1:10">
+                    <button class="gradient-btn gradient-btn-two btn-two leverage-btn me-2 mb-2 mb-md-0" data-leverage="1:10">
                         Leverage 1:10
                     </button>
-                    <button class="gradient-btn gradient-btn-two btn-two leverage-btn me-2 mb-2 mb-sm-0" data-leverage="1:20">
+                    <button class="gradient-btn gradient-btn-two btn-two leverage-btn me-2 mb-2 mb-md-0" data-leverage="1:20">
                         Leverage 1:20
                     </button>
                 </div>

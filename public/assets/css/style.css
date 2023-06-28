@@ -174,7 +174,8 @@ button:focus {
 a:hover,
 .portfolio-cat a:hover,
 .footer -menu li a:hover {
-	color: var(--tg-secondary-color);
+	/* color: var(--tg-secondary-color); */
+	color: #ff0000;
 	text-decoration: none;
 }
 a,
@@ -3251,6 +3252,23 @@ label {
 .pricing-tab .pricing-tab-switcher.active:before {
 	left: calc(100% - 46px);
 }
+
+@media (max-width: 480px) {
+	.pricing-item-wrap-two .pricing-tab .tab-btn,
+	.pricing-item-wrap .pricing-tab .tab-btn {
+		font-size: 15px;
+	}
+	.pricing-tab .pricing-tab-switcher {
+		width: 75px;
+	}
+	.pricing-tab .pricing-tab-switcher:before {
+		width: 30px;
+	}
+	.pricing-tab .pricing-tab-switcher.active:before {
+		left: calc(100% - 36px);
+	}
+}
+
 .pricing-price .annual_price {
     display: none;
 }
