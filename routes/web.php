@@ -31,3 +31,7 @@ Route::prefix('company')->group(function () {
     Route::view('/contact', 'company.contact')->name('company.contact');
     Route::view('/careers', 'company.careers')->name('company.careers');
 });
+
+Route::prefix('programs')->group(function () {
+    Route::view('/one-phase', 'programs.one-phase')->name('programs.one-phase');
+});

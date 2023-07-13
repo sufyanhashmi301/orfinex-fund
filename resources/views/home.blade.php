@@ -565,31 +565,6 @@
             target.addClass('show active');
         });
 
-
-        $('.payment-plans-row__container').click(function() {
-            $(this).children('.plan-details').slideToggle();
-        });
-
-        $('.planSlide').hide();
-        $('.planSlide.current').show();
-        $('.next').click(function () {
-            $('.planSlide.current').removeClass('current').hide().next().show().addClass('current');
-
-            if ($('.planSlide.current').hasClass('last')) {
-                $('.next').css('display', 'none');
-            }
-            $('.prev').css('display', 'flex');
-        });
-
-        $('.prev').click(function () {
-            $('.planSlide.current').removeClass('current').hide().prev().show().addClass('current');
-
-            if ($('.planSlide.current').hasClass('first')) {
-                $('.prev').css('display', 'none');
-            }
-            $('.next').css('display', 'flex');
-        });
-
         $(document).ready(function () {
 
             updateRefundableFees('swap');
