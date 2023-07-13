@@ -2493,7 +2493,8 @@ label {
 	margin-left: 8px;
 }
 .writing-content a:hover {
-	color: var(--tg-secondary-color);
+	/* color: var(--tg-secondary-color); */
+	color: #ff0000;
 }
 
 /*=============================
@@ -5330,11 +5331,11 @@ label {
 	/* background: #331a5d; */
 	z-index: -1;
 }
-.contact-info-item .icon i {
+.contact-info-item .icon i, .contact-info-item .icon img {
 	transform: rotateY(0);
 	transition: .3s linear;
 }
-.contact-info-item:hover .icon i {
+.contact-info-item:hover .icon i, .contact-info-item:hover .icon img {
 	transform: rotateY(-180deg);
 }
 .contact-info-item .content .title {
