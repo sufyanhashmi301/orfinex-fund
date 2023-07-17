@@ -52,28 +52,28 @@
                         <span>Profit Target</span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
-                            1000$ (10%)
+                        <span class="phase-data" data-phase="2">
+                            800$ (8%)
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
-                            2500$ (10%)
+                        <span class="phase-data" data-phase="2">
+                            2000$ (8%)
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
-                            5000$ (10%)
+                        <span class="phase-data" data-phase="2">
+                            4000$ (8%)
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
-                            10000$ (10%)
+                        <span class="phase-data" data-phase="2">
+                            8000$ (8%)
                         </span>
                     </div>
                 </div>
                 <div class="plan-details">
-                    <span>Buying power refers to the maximum amount of margin that can be utilized, serving as an indicator of one's leverage potential. It provides insight into the extent to which an individual or entity can increase their purchasing or investment capacity through borrowed funds.</span>
+                    <span>Buying power refers to the maximum amount of margin that can be utilized, serving as an indicator of one's leverage individual or entity can increase their purchasing or investment capacity through borrowed funds.</span>
                 </div>
             </div>
             <div class="payment-plans-row__container">
@@ -82,22 +82,22 @@
                         <span>Daily Maximum Loss</span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             500$ (5%)
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             1250$ (5%)
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             2500$ (5%)
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             5000$ (5%)
                         </span>
                     </div>
@@ -112,22 +112,22 @@
                         <span>Maximum Loss Limit</span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             1000$ (10%)
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             2500$ (10%)
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             5000$ (10%)
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             10000$ (10%)
                         </span>
                     </div>
@@ -142,22 +142,22 @@
                         <span>Time Limit</span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             No Limit
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             No Limit
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             No Limit
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             No Limit
                         </span>
                     </div>
@@ -172,22 +172,22 @@
                         <span>Minimum Trading Days</span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             4
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             4
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             4
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             4
                         </span>
                     </div>
@@ -202,22 +202,22 @@
                         <span>Commision Per Lot</span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             3$
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             3$
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             3$
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             3$
                         </span>
                     </div>
@@ -232,22 +232,22 @@
                         <span>Profit Split</span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             80%
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             80%
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             80%
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             80%
                         </span>
                     </div>
@@ -262,22 +262,22 @@
                         <span>Trading Leverage</span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             1:100
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             1:100
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             1:100
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             1:100
                         </span>
                     </div>
@@ -292,22 +292,22 @@
                         <span>News Trading</span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
@@ -322,22 +322,22 @@
                         <span>Weekend Holding</span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
@@ -352,22 +352,22 @@
                         <span>EA & Bots</span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
@@ -382,22 +382,22 @@
                         <span>Trade Copiers</span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
@@ -412,22 +412,22 @@
                         <span>Re-Attempt Discount</span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             20%
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             20%
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             20%
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             20%
                         </span>
                     </div>
@@ -442,22 +442,22 @@
                         <span>Refundable Fee</span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
@@ -472,23 +472,23 @@
                         <span>Original Price</span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
-                            $149
+                        <span class="phase-data" data-phase="2">
+                            Not Applicable
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
-                            $349
+                        <span class="phase-data" data-phase="2">
+                            Not Applicable
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
-                            $649
+                        <span class="phase-data" data-phase="2">
+                            Not Applicable
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
-                            $999
+                        <span class="phase-data" data-phase="2">
+                            Not Applicable
                         </span>
                     </div>
                 </div>
@@ -502,23 +502,23 @@
                         <span>Discounted Price</span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
-                            $99
+                        <span class="phase-data" data-phase="2">
+                            Not Applicable
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
-                            $199
+                        <span class="phase-data" data-phase="2">
+                            Not Applicable
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
-                            $299
+                        <span class="phase-data" data-phase="2">
+                            Not Applicable
                         </span>
                     </div>
                     <div class="payment-plans-cell">
-                        <span class="phase-data" data-phase="1">
-                            $499
+                        <span class="phase-data" data-phase="2">
+                            Not Applicable
                         </span>
                     </div>
                 </div>
@@ -601,23 +601,23 @@
                         <span>Profit Target</span>
                     </div>
                     <div class="payment-plans-cell planSlide first current">
-                        <span class="phase-data" data-phase="1">
-                            1000$ (10%)
+                        <span class="phase-data" data-phase="2">
+                            800$ (8%)
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide">
-                        <span class="phase-data" data-phase="1">
-                            2500$ (10%)
+                        <span class="phase-data" data-phase="2">
+                            2000$ (8%)
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide">
-                        <span class="phase-data" data-phase="1">
-                            5000$ (10%)
+                        <span class="phase-data" data-phase="2">
+                            4000$ (8%)
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide last">
-                        <span class="phase-data" data-phase="1">
-                            10000$ (10%)
+                        <span class="phase-data" data-phase="2">
+                            8000$ (8%)
                         </span>
                     </div>
                 </div>
@@ -631,22 +631,22 @@
                         <span>Daily Maximum Loss</span>
                     </div>
                     <div class="payment-plans-cell planSlide first current">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             500$ (5%)
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             1250$ (5%)
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             2500$ (5%)
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide last">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             5000$ (5%)
                         </span>
                     </div>
@@ -661,22 +661,22 @@
                         <span>Maximum Loss Limit</span>
                     </div>
                     <div class="payment-plans-cell planSlide first current">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             1000$ (10%)
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             2500$ (10%)
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             5000$ (10%)
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide last">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             10000$ (10%)
                         </span>
                     </div>
@@ -691,22 +691,22 @@
                         <span>Time Limit</span>
                     </div>
                     <div class="payment-plans-cell planSlide first current">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             No Limit
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             No Limit
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             No Limit
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide last">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             No Limit
                         </span>
                     </div>
@@ -721,22 +721,22 @@
                         <span>Minimum Trading Days</span>
                     </div>
                     <div class="payment-plans-cell planSlide first current">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             4
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             4
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             4
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide last">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             4
                         </span>
                     </div>
@@ -751,22 +751,22 @@
                         <span>Commision Per Lot</span>
                     </div>
                     <div class="payment-plans-cell planSlide first current">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             3$
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             3$
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             3$
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide last">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             3$
                         </span>
                     </div>
@@ -781,22 +781,22 @@
                         <span>Profit Split</span>
                     </div>
                     <div class="payment-plans-cell planSlide first current">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             80%
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             80%
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             80%
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide last">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             80%
                         </span>
                     </div>
@@ -811,22 +811,22 @@
                         <span>Trading Leverage</span>
                     </div>
                     <div class="payment-plans-cell planSlide first current">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             1:100
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             1:100
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             1:100
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide last">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             1:100
                         </span>
                     </div>
@@ -841,22 +841,22 @@
                         <span>News Trading</span>
                     </div>
                     <div class="payment-plans-cell planSlide first current">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide last">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
@@ -871,22 +871,22 @@
                         <span>Weekend Holding</span>
                     </div>
                     <div class="payment-plans-cell planSlide first current">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide last">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
@@ -901,22 +901,22 @@
                         <span>EA & Bots</span>
                     </div>
                     <div class="payment-plans-cell planSlide first current">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide last">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
@@ -931,22 +931,22 @@
                         <span>Trade Copiers</span>
                     </div>
                     <div class="payment-plans-cell planSlide first current">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide last">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
@@ -961,22 +961,22 @@
                         <span>Re-Attempt Discount</span>
                     </div>
                     <div class="payment-plans-cell planSlide first current">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             20%
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             20%
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             20%
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide last">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             20%
                         </span>
                     </div>
@@ -991,22 +991,22 @@
                         <span>Refundable Fee</span>
                     </div>
                     <div class="payment-plans-cell planSlide first current">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide last">
-                        <span class="phase-data" data-phase="1">
+                        <span class="phase-data" data-phase="2">
                             Yes
                         </span>
                     </div>
@@ -1021,23 +1021,23 @@
                         <span>Original Price</span>
                     </div>
                     <div class="payment-plans-cell planSlide first current">
-                        <span class="phase-data" data-phase="1">
-                            $149
+                        <span class="phase-data" data-phase="2">
+                            Not Applicable
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide">
-                        <span class="phase-data" data-phase="1">
-                            $349
+                        <span class="phase-data" data-phase="2">
+                            Not Applicable
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide">
-                        <span class="phase-data" data-phase="1">
-                            $649
+                        <span class="phase-data" data-phase="2">
+                            Not Applicable
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide last">
-                        <span class="phase-data" data-phase="1">
-                            $999
+                        <span class="phase-data" data-phase="2">
+                            Not Applicable
                         </span>
                     </div>
                 </div>
@@ -1051,23 +1051,23 @@
                         <span>Discounted Price</span>
                     </div>
                     <div class="payment-plans-cell planSlide first current">
-                        <span class="phase-data" data-phase="1">
-                            $99
+                        <span class="phase-data" data-phase="2">
+                            Not Applicable
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide">
-                        <span class="phase-data" data-phase="1">
-                            $199
+                        <span class="phase-data" data-phase="2">
+                            Not Applicable
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide">
-                        <span class="phase-data" data-phase="1">
-                            $299
+                        <span class="phase-data" data-phase="2">
+                            Not Applicable
                         </span>
                     </div>
                     <div class="payment-plans-cell planSlide last">
-                        <span class="phase-data" data-phase="1">
-                            $499
+                        <span class="phase-data" data-phase="2">
+                            Not Applicable
                         </span>
                     </div>
                 </div>

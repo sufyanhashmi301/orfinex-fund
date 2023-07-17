@@ -34,4 +34,5 @@ Route::prefix('company')->group(function () {
 
 Route::prefix('programs')->group(function () {
     Route::view('/one-phase', 'programs.one-phase')->name('programs.one-phase');
+    Route::view('/two-phase', 'programs.two-phase')->name('programs.two-phase');
 });

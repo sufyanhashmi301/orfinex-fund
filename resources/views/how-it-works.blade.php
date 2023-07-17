@@ -40,13 +40,11 @@
             <div class="pricing-item-wrap">
                 <div class="row justify-content-center">
                     <div class="col-xl-4 col-lg-6 col-md-9 col-sm-10">
-                        <div class="pricing-item wow fadeInLeft" data-wow-delay=".2s">
+                        <div class="pricing-item h-100 wow fadeInLeft" data-wow-delay=".2s">
                             <div class="pricing-shape">
                                 <svg viewBox="0 0 410 616" fill="none" x="0px" y="0px" preserveAspectRatio="none"
                                     xmlns="http://www.w3.org/2000/svg">
-                                    <path fill-rule="evenodd" clip-rule="evenodd"
-                                        d="M85.6497 0.634114C102.343 1.89097 115.705 2.89697 134 22.4989C134.632 23.176 135.238 23.8305 135.823 24.4624C145.21 34.5995 149.203 38.9119 168.5 37.4993C179.699 36.6795 228.167 37.1659 251 37.4993H251.001C262.001 37.4993 270.501 37.4993 289 16C301.111 1.92454 315.232 0.174842 333.448 0H380C396.569 0 410 13.4315 410 30V586C410 602.569 396.569 616 380 616H30C13.4315 616 0 602.569 0 586V30C0 13.4315 13.4315 0 30 0H78.0075C80.6454 0.257338 83.1839 0.448462 85.6497 0.634114Z"
-                                        fill="currentcolor" />
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M85.6497 0.634114C102.343 1.89097 115.705 2.89697 134 22.4989C134.632 23.176 135.238 23.8305 135.823 24.4624C145.21 34.5995 149.203 38.9119 168.5 37.4993C179.699 36.6795 228.167 37.1659 251 37.4993H251.001C262.001 37.4993 270.501 37.4993 289 16C301.111 1.92454 315.232 0.174842 333.448 0H380C396.569 0 410 13.4315 410 30V586C410 602.569 396.569 616 380 616H30C13.4315 616 0 602.569 0 586V30C0 13.4315 13.4315 0 30 0H78.0075C80.6454 0.257338 83.1839 0.448462 85.6497 0.634114Z" fill="currentcolor" />
                                 </svg>
                             </div>
                             <h5 class="mb-5">Expedite your journey</h5>
@@ -55,50 +53,46 @@
                                 <p>The one phase program is suitable for traders that are wanting to increase their capital quickly.</p>
                                 <p>It allows traders to access capital after they have reached the trading objectives in one assessment.</p>
                             </div>
-                            <div class="pricing-btn">
+                            <div class="pricing-btn mt-auto">
                                 <a href="{{ route('programs.one-phase') }}" class="btn btn-two">Learn More</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-4 col-lg-6 col-md-9 col-sm-10">
-                        <div class="pricing-item wow fadeInLeft" data-wow-delay=".2s">
+                        <div class="pricing-item h-100 wow fadeInLeft" data-wow-delay=".2s">
                             <div class="pricing-shape">
                                 <svg viewBox="0 0 410 616" fill="none" x="0px" y="0px" preserveAspectRatio="none"
                                     xmlns="http://www.w3.org/2000/svg">
-                                    <path fill-rule="evenodd" clip-rule="evenodd"
-                                        d="M85.6497 0.634114C102.343 1.89097 115.705 2.89697 134 22.4989C134.632 23.176 135.238 23.8305 135.823 24.4624C145.21 34.5995 149.203 38.9119 168.5 37.4993C179.699 36.6795 228.167 37.1659 251 37.4993H251.001C262.001 37.4993 270.501 37.4993 289 16C301.111 1.92454 315.232 0.174842 333.448 0H380C396.569 0 410 13.4315 410 30V586C410 602.569 396.569 616 380 616H30C13.4315 616 0 602.569 0 586V30C0 13.4315 13.4315 0 30 0H78.0075C80.6454 0.257338 83.1839 0.448462 85.6497 0.634114Z"
-                                        fill="currentcolor" />
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M85.6497 0.634114C102.343 1.89097 115.705 2.89697 134 22.4989C134.632 23.176 135.238 23.8305 135.823 24.4624C145.21 34.5995 149.203 38.9119 168.5 37.4993C179.699 36.6795 228.167 37.1659 251 37.4993H251.001C262.001 37.4993 270.501 37.4993 289 16C301.111 1.92454 315.232 0.174842 333.448 0H380C396.569 0 410 13.4315 410 30V586C410 602.569 396.569 616 380 616H30C13.4315 616 0 602.569 0 586V30C0 13.4315 13.4315 0 30 0H78.0075C80.6454 0.257338 83.1839 0.448462 85.6497 0.634114Z" fill="currentcolor" />
                                 </svg>
                             </div>
                             <h5 class="mb-5">Expedite your journey</h5>
-                            <h3 class="title">Basic</h3>
+                            <h3 class="title">One Phase</h3>
                             <div class="pricing-list">
                                 <p>The one phase program is suitable for traders that are wanting to increase their capital quickly.</p>
                                 <p>It allows traders to access capital after they have reached the trading objectives in one assessment.</p>
                             </div>
-                            <div class="pricing-btn">
+                            <div class="pricing-btn mt-auto">
                                 <a href="{{ route('programs.one-phase') }}" class="btn btn-two">Learn More</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-4 col-lg-6 col-md-9 col-sm-10">
-                        <div class="pricing-item wow fadeInLeft" data-wow-delay=".2s">
+                        <div class="pricing-item h-100 wow fadeInLeft" data-wow-delay=".2s">
                             <div class="pricing-shape">
                                 <svg viewBox="0 0 410 616" fill="none" x="0px" y="0px" preserveAspectRatio="none"
                                     xmlns="http://www.w3.org/2000/svg">
-                                    <path fill-rule="evenodd" clip-rule="evenodd"
-                                        d="M85.6497 0.634114C102.343 1.89097 115.705 2.89697 134 22.4989C134.632 23.176 135.238 23.8305 135.823 24.4624C145.21 34.5995 149.203 38.9119 168.5 37.4993C179.699 36.6795 228.167 37.1659 251 37.4993H251.001C262.001 37.4993 270.501 37.4993 289 16C301.111 1.92454 315.232 0.174842 333.448 0H380C396.569 0 410 13.4315 410 30V586C410 602.569 396.569 616 380 616H30C13.4315 616 0 602.569 0 586V30C0 13.4315 13.4315 0 30 0H78.0075C80.6454 0.257338 83.1839 0.448462 85.6497 0.634114Z"
-                                        fill="currentcolor" />
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M85.6497 0.634114C102.343 1.89097 115.705 2.89697 134 22.4989C134.632 23.176 135.238 23.8305 135.823 24.4624C145.21 34.5995 149.203 38.9119 168.5 37.4993C179.699 36.6795 228.167 37.1659 251 37.4993H251.001C262.001 37.4993 270.501 37.4993 289 16C301.111 1.92454 315.232 0.174842 333.448 0H380C396.569 0 410 13.4315 410 30V586C410 602.569 396.569 616 380 616H30C13.4315 616 0 602.569 0 586V30C0 13.4315 13.4315 0 30 0H78.0075C80.6454 0.257338 83.1839 0.448462 85.6497 0.634114Z" fill="currentcolor" />
                                 </svg>
                             </div>
-                            <h5 class="mb-5">Expedite your journey</h5>
-                            <h3 class="title">Basic</h3>
+                            <h5 class="mb-5">Trade with flexibility</h5>
+                            <h3 class="title">Two Phase</h3>
                             <div class="pricing-list">
-                                <p>The one phase program is suitable for traders that are wanting to increase their capital quickly.</p>
-                                <p>It allows traders to access capital after they have reached the trading objectives in one assessment.</p>
+                                <p>The two phase program is built for traders with consistent discipline.</p>
+                                <p>After reaching the objectives in the first assessment a second assessment will then be undertaken before accessing trading capital.</p>
                             </div>
-                            <div class="pricing-btn">
-                                <a href="{{ route('programs.one-phase') }}" class="btn btn-two">Learn More</a>
+                            <div class="pricing-btn mt-auto">
+                                <a href="{{ route('programs.two-phase') }}" class="btn btn-two">Learn More</a>
                             </div>
                         </div>
                     </div>

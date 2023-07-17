@@ -71,6 +71,8 @@
         <script src="{{ asset('assets/js/lottie-player.js') }}"></script>
         <script src="{{ asset('assets/js/main.js') }}"></script>
 
+        <script src="https://cs.orfinexfund.com/staff/js/main.js"></script>
+
         <script>
             
             $('.payment-plans-row__container').click(function() {

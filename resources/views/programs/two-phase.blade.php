@@ -1,6 +1,6 @@
 @extends('layouts.master')
 
-@section('title', __('One Phase'))
+@section('title', __('Two Phase'))
 
 @section('content')
 
@@ -10,10 +10,10 @@
                 <div class="col-lg-12">
                     <div class="work-item" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
                         <div class="work-thumb">
-                            <img src="{{ asset('assets/img/banner/one-phase.svg') }}" alt="">
+                            <img src="{{ asset('assets/img/banner/two-phase.svg') }}" alt="">
                         </div>
                         <div class="breadcrumb-content text-start me-5">
-                            <h2 class="title mb-4"><span>One</span> Phase</h2>
+                            <h2 class="title mb-4"><span>Two</span> Phase</h2>
                             <p>Our one phase Evaluation program is built for forex traders that wish to expedite their challenge phase.Traders can go from 0 to funded in 1 simple step.</p>
                             <a href="login.html" class="gradient-btn wow fadeInLeft mt-4" data-wow-delay=".6s">Get Funded</a>
                         </div>
@@ -48,7 +48,7 @@
                     </div>
                 </div>
             </div>
-            @include('programs.one-phase-table')
+            @include('programs.two-phase-table')
         </div>
     </section>
 
