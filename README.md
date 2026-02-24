@@ -1,66 +1,119 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+💹 Orfinex Fund – Funded Trading CRM
+🔍 Overview
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+Orfinex Fund is a production-grade Trading CRM designed for prop firms and funded account platforms.
+It enables traders and investors to participate in funded trading challenges, manage accounts, and operate seamlessly across multiple trading platforms.
 
-## About Laravel
+The system supports real money workflows, compliance, automation, and admin-level control.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+🚀 Core Features
+👤 Trader & Investor Management
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Account creation and lifecycle management
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Funded account handling
 
-## Learning Laravel
+Deposit & withdrawal processing via payment gateways
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+🧾 KYC & Compliance
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+Manual KYC verification
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+Automated KYC integration (Samsung / third-party)
 
-## Laravel Sponsors
+Verification tracking and approval workflows
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+🎯 Trading Challenges System
 
-### Premium Partners
+Challenge-based funded accounts
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+Target & rule validation
 
-## Contributing
+Automatic upgrades via cron jobs & APIs
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Performance evaluation logic
 
-## Code of Conduct
+🔗 Trading Platform Integrations
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+MT5 API
 
-## Security Vulnerabilities
+cTrader API
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+x9 integration
 
-## License
+Real-time account sync & stats
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+🤝 MLM, Bounties & Bonuses
+
+Multi-level referral system
+
+IB commission distribution
+
+Bonus & bounty management
+
+User activity tracking
+
+🎫 Support & Communication
+
+Ticket-based support system
+
+User issue tracking
+
+Admin resolution workflows
+
+📊 Admin Panel & Reporting
+
+Role & permission management
+
+User, account & challenge oversight
+
+Financial stats & trading reports
+
+Operational dashboards
+
+🛠 Tech Stack
+
+Backend: PHP
+
+Frontend: HTML, CSS, JavaScript
+
+Database: MySQL
+
+Integrations: MT5, cTrader, x9 APIs
+
+Automation: Cron jobs & background processes
+
+Architecture: Modular, role-based system
+
+⚙️ Installation & Setup
+git clone https://github.com/sufyanhashmi301/orfinexfund.git
+
+
+Configure database credentials
+
+Import SQL schema
+
+Configure API keys (MT5 / cTrader / x9)
+
+Set up cron jobs for challenge automation
+
+Deploy on secure hosting environment
+
+🧠 What This Project Demonstrates
+
+Fintech & trading domain expertise
+
+Handling of real-money workflows
+
+API-driven architecture
+
+Automated business logic (cron + APIs)
+
+Compliance-aware system design
+
+Admin-level operational control
+
+⚠️ Disclaimer
+
+This repository is shared for portfolio demonstration purposes only.
+Sensitive credentials and production secrets have been removed.
